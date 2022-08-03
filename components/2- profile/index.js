@@ -35,7 +35,7 @@ export default () => {
             pela Universidade Estácio de Sá e, no mês de Junho, me desliguei do
             estágio jurídico e tranquei a faculdade de direito para me dedicar
             integralmente à programação. Abaixo estão alguns projetos que ja fiz
-            e as respectivas ferramentas usadas em baixo, ao terminar de ver é
+            e as respectivas ferramentas usadas em baixo. Ao terminar de ver é
             só clicar na seta no fim da página para fechar
           </p>
         ) : null}
